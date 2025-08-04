@@ -1,0 +1,10 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: 0_intro
+chapters:
+- file: 6_Introducción_a_redes_KAN
+- file: 7_AA2_intro_gan_
+
+
